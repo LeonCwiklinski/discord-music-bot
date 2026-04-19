@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Secrets — never commit these
+.env
+
+# Music files — likely too large for git
+music/songs/
+music/playlists/
+
+# OS
+.DS_Store
+Thumbs.db
