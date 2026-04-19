@@ -156,7 +156,7 @@ ffmpeg -version
 #### 3.2 Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/discord-music-bot.git
+git clone https://github.com/LeonCwiklinski/discord-music-bot.git
 cd discord-music-bot
 ```
 
